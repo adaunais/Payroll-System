@@ -1,21 +1,3 @@
-/*
- Payroll Management System
-
- A Java console application that manages employees and simulates a payroll system.
-
- Features:
- - Create hourly and salaried employees
- - Search employees by last name
- - Display employees by employee ID using binary search
- - Run payroll to display all employees
- - Uses QuickSort and Selection Sort for organizing employee data
-
- Author: Allison Daunais
-*/
-
-
-
-
 package payroll;
 
 import java.util.Scanner;
